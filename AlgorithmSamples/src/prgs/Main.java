@@ -2,19 +2,19 @@ package prgs;
 
 import prgs.IntroductionSamples.*;
 import prgs.IfElseSamples.*;
+import prgs.ForSamples.*;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Cozum(new Prg019());
-		//Cozum2(new Prg018());
+		Cozum(new Prg028());
 	}
 	
 	
 	private static void Cozum(Prg prg) {
+		System.out.print("---------------------\n");
 		prg.cozum();
-	}
-	private static void Cozum2(Prg prg) {
+		System.out.print("\n\n---------------------\n");
 		prg.cozum2();
 	}
 
