@@ -3,11 +3,12 @@ package prgs;
 import prgs.IntroductionSamples.*;
 import prgs.IfElseSamples.*;
 import prgs.ForSamples.*;
+import prgs.ArraySamples.*;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Cozum(new Prg028());
+		Cozum(new Prg041());
 	}
 	
 	
