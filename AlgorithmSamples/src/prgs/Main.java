@@ -8,7 +8,7 @@ import prgs.ArraySamples.*;
 public class Main {
 
 	public static void main(String[] args) {
-		Cozum(new Prg062());
+		Cozum(new Prg068());
 	}
 	
 	
