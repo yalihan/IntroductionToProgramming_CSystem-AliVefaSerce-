@@ -5,11 +5,12 @@ import prgs.IfElseSamples.*;
 import prgs.ForSamples.*;
 import prgs.ArraySamples.*;
 import prgs.NestedLoopSamples.*;
+import prgs.MatriceSamples.*;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Cozum(new Prg073());
+		Cozum(new Prg082());
 	}
 	
 	
