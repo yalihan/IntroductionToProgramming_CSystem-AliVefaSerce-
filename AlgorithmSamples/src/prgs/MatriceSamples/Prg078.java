@@ -10,7 +10,7 @@ public class Prg078 extends Prg{
 				m[i][j] = i*3+j+1;
 				System.out.print(m[i][j]+"\t");
 			}
-			System.out.println();
+			System.out.println("\n");
 		}
 	}
 }

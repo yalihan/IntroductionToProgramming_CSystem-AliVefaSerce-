@@ -10,7 +10,7 @@ import prgs.MatriceSamples.*;
 public class Main {
 
 	public static void main(String[] args) {
-		Cozum(new Prg086());
+		Cozum(new Prg097());
 	}
 	
 	
