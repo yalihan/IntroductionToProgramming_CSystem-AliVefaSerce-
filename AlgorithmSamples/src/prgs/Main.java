@@ -11,7 +11,7 @@ import prgs.WhileSamples.*;
 public class Main {
 
 	public static void main(String[] args) {
-		Cozum(new Prg099());
+		Cozum(new Prg105());
 	}
 	
 	
