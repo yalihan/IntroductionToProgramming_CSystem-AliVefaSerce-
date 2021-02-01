@@ -22,9 +22,9 @@ public class Prg103 extends Prg{
 		for(int j=0 ; j<a.length-1 ; j++) {
 			for(int k=j+1 ; k<a.length ; k++) {
 				if(a[k] > a[j]) {
-					int box = a[j];
+					int temp = a[j];
 					a[j] = a[k];
-					a[k] = box;
+					a[k] = temp;
 				}
 			}
 			n += a[j]*basamakDegeri;
